@@ -6,8 +6,8 @@ namespace EmployeeWageComputationUsingOOPS
     {
         public static void Main(string[] args)
         {
-            CheckEmployee num = new CheckEmployee();
-            num.checkEmployeeWage();
+            DailyWage Wage = new DailyWage();
+            Wage.CalculateDailywage();
         }
     }
 }
