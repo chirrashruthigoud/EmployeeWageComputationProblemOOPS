@@ -6,8 +6,8 @@ namespace EmployeeWageComputationUsingOOPS
     {
         public static void Main(string[] args)
         {
-            DailyWage Wage = new DailyWage();
-            Wage.CalculateDailywage();
+           PartTimeWage part=new PartTimeWage();
+            part.EmployeePartTime();
         }
     }
 }
