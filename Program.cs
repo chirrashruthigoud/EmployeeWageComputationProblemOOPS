@@ -1,4 +1,5 @@
 ﻿using EmployeeWageComputationoops;
+using System.Linq.Expressions;
 
 namespace EmployeeWageComputationUsingOOPS
 {
@@ -6,8 +7,8 @@ namespace EmployeeWageComputationUsingOOPS
     {
         public static void Main(string[] args)
         {
-           PartTimeWage part=new PartTimeWage();
-            part.EmployeePartTime();
+            UsingSwitch sc = new UsingSwitch();
+            sc.SwitchCase();
         }
     }
 }
