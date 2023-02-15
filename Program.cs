@@ -7,8 +7,8 @@ namespace EmployeeWageComputationUsingOOPS
     {
         public static void Main(string[] args)
         {
-            MonthlyWage num= new MonthlyWage();
-            num.monthlyWage();
+            WorkingHours num= new WorkingHours();
+            num.workinghrs();
         }
     }
 }
