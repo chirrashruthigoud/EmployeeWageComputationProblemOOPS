@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using EmployeeWageComputationoops;
+
+namespace EmployeeWageComputationUsingOOPS
+{
+    public class EmployeeWage
+    {
+        public static void Main(string[] args)
+        {
+            CheckEmployee num = new CheckEmployee();
+            num.checkEmployeeWage();
+        }
+    }
+}
