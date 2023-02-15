@@ -7,8 +7,8 @@ namespace EmployeeWageComputationUsingOOPS
     {
         public static void Main(string[] args)
         {
-            WorkingHours num= new WorkingHours();
-            num.workinghrs();
+            RefactorCode em = new RefactorCode();
+            em.EmployeeWage();
         }
     }
 }
