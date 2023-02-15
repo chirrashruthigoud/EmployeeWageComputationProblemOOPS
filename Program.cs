@@ -7,8 +7,8 @@ namespace EmployeeWageComputationUsingOOPS
     {
         public static void Main(string[] args)
         {
-            UsingSwitch sc = new UsingSwitch();
-            sc.SwitchCase();
+            MonthlyWage num= new MonthlyWage();
+            num.monthlyWage();
         }
     }
 }
