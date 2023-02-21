@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\bin\Debug\net6.0\EmployeeWageComputationoops.exe
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\bin\Debug\net6.0\EmployeeWageComputationoops.deps.json
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\bin\Debug\net6.0\EmployeeWageComputationoops.runtimeconfig.json
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\bin\Debug\net6.0\EmployeeWageComputationoops.dll
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\bin\Debug\net6.0\EmployeeWageComputationoops.pdb
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.AssemblyInfo.cs
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.dll
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\refint\EmployeeWageComputationoops.dll
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.pdb
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\EmployeeWageComputationoops.genruntimeconfig.cache
+C:\Users\Admin\source\repos\214\EmployeeWageComputationoops\EmployeeWageComputationoops\obj\Debug\net6.0\ref\EmployeeWageComputationoops.dll
