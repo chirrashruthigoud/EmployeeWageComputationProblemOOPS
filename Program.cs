@@ -8,8 +8,8 @@ namespace EmployeeWageComputationUsingOOPS
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Employee Wage Computation Program");
-            EmpWageMultipleint dMart = new EmpWageMultipleint("DMart", 20, 2, 10);
-            EmpWageMultipleint reliance = new EmpWageMultipleint("Reliance", 10, 4, 20);
+            EmployeeWageint dMart = new EmployeeWageint("DMart", 20, 2, 10);
+            EmployeeWageint reliance = new EmployeeWageint("Reliance", 10, 4, 20);
             dMart.computeEmpWage();
             Console.WriteLine(dMart.toString());
             reliance.computeEmpWage();
