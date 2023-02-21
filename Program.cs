@@ -7,13 +7,10 @@ namespace EmployeeWageComputationUsingOOPS
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Employee Wage Computation Program");
-            TotalEmpWage dMart = new TotalEmpWage("DMart", 20, 2, 10);
-            TotalEmpWage reliance = new TotalEmpWage("Reliance", 10, 4, 20);
-            dMart.computeEmpWage();
-            Console.WriteLine(dMart.toString());
-            reliance.computeEmpWage();
-            Console.WriteLine(reliance.toString());
+            EmpWageBuiltArray empWageBuiltArray = new EmpWageBuiltArray();
+            empWageBuiltArray.addCompanyEmpWage("Dmart", 20, 2, 10);
+            empWageBuiltArray.addCompanyEmpWage("Reliance", 20, 2, 10);
+            empWageBuiltArray.computeEmpWage();
         }
     }
 }
